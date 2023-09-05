@@ -2,40 +2,40 @@
   "_id": {
     "$oid": "5eee651f739f8c674fd736ee"
   },
-  "name": "Margherita",
-  "image": "pizza.png",
+  "name": "Balushahi",
+  "image": "Balushahi.png",
   "price": "250",
   "size": "small"
 },{
   "_id": {
     "$oid": "5eee6671a27a66807cf2bea3"
   },
-  "name": "Marinara",
-  "image": "pizza.png",
+  "name": "Burger",
+  "image": "burger.png",
   "price": "300",
   "size": "medium"
 },{
   "_id": {
     "$oid": "5eee6692a27a66807cf2bea4"
   },
-  "name": "Carbonara",
-  "image": "pizza.png",
+  "name": "Fried Rice",
+  "image": "Fried Rice.png",
   "price": "200",
   "size": "small"
 },{
   "_id": {
     "$oid": "5eee66a5a27a66807cf2bea5"
   },
-  "name": "Americana",
-  "image": "pizza.png",
+  "name": "Masala Dosa",
+  "image": "Masala Dosa.png",
   "price": "500",
   "size": "large"
 },{
   "_id": {
     "$oid": "5eee66c4a27a66807cf2bea6"
   },
-  "name": "Chicken Mushroom",
-  "image": "pizza.png",
+  "name": "Paneer",
+  "image": "Paneer.png",
   "price": "350",
   "size": "medium"
 },{
@@ -54,12 +54,12 @@
   "image": "pizza.png",
   "price": "600",
   "size": "large"
-},{ 
+},{
   "_id": {
     "$oid": "5eee6717a27a66807cf2bea9"
   },
-  "name": "Pepperoni",
-  "image": "pizza.png",
+  "name": "Samosa",
+  "image": "Samosa.png",
   "price": "500",
   "size": "medium"
 }]
